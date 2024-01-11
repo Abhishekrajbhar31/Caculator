@@ -1,0 +1,1 @@
+This is a Simply Calculator project using the html , css and javascript... 👍
